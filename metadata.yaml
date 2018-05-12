@@ -1,0 +1,36 @@
+_repo: Ranching-Sport-and-Travel_20382
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20382-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Carson, Thomas
+    gutenberg_agent_id: '9264'
+    url: http://www.gutenberg.org/2009/agents/9264
+description: The History of the American West Collection is a unique project that
+  provides opportunities for researchers and new readers to easily access and explore
+  works which have previously only been available on library shelves. The Collection
+  brings to life pre-1923 titles focusing on a wide range of topics and experiences
+  in US Western history. From the initial westward migration, to exploration and development
+  of the American West to daily life in the West and intimate pictures of the people
+  who inhabited it, this collection offers American West enthusiasts a new glimpse
+  at some forgotten treasures of American culture. Encompassing genres such as poetry,
+  fiction, nonfiction, tourist guides, biographies and drama, this collection provides
+  a new window to the legend and realities of the American West.
+gutenberg_issued: '2007-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Mexico -- Description and travel'
+- !lcsh 'Voyages and travels'
+- !lcsh 'Arizona -- Description and travel'
+- !lcsh 'Texas -- Description and travel'
+- !lcc 'F786'
+title: Ranching, Sport and Travel
+url: http://www.gutenberg.org/ebooks/20382
